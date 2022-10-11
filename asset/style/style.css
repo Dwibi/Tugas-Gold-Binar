@@ -360,9 +360,6 @@ nav a {
   font-size: 14px;
   line-height: 20px;
 }
-.section-fifth-title {
-  /* border: 1px solid black; */
-}
 .section-fifth-list {
   /* border: 1px solid red; */
   display: grid;
@@ -794,9 +791,6 @@ footer {
     font-weight: 700;
     font-size: 14px;
     line-height: 20px;
-  }
-  .section-fifth-title {
-    /* border: 1px solid black; */
   }
   .section-fifth-list {
     /* border: 1px solid red; */
